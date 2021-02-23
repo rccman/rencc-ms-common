@@ -7,11 +7,12 @@
     <groupId>com.rencc.ms</groupId>
     <artifactId>rencc-ms-common-parent</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.2-SNAPSHOT</version>
     <modules>
         <module>rencc-ms-common-model</module>
         <module>rencc-ms-common-service</module>
         <module>rencc-ms-common-cache</module>
+        <module>rencc-ms-common-elasticsearch</module>
     </modules>
 
     <parent>
